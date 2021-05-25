@@ -1,4 +1,4 @@
-const knex = require('../dbConfig')
+const knex = require('../dbconfig')
 
 module.exports ={
     async animesSimples(req, res){
