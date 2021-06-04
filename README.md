@@ -10,3 +10,5 @@ npm install
 ```
 npm run test
 ```
+## Status
+:white_check_mark: Finalizado
